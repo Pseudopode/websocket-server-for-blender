@@ -5,6 +5,8 @@ The original plugin, made by Jonathan Giroux [WebSocket Server for Blender](http
 
 I updated the code in this version to make it work (tested with Blender 2.81).
 
+![Demo screenshot](./usage.jpg "")
+
 # WebSocket server for Blender
 
 This project includes a Blender add-on (server) and a JavaScript library (client).
