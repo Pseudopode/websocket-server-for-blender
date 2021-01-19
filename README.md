@@ -1,3 +1,10 @@
+![Addon Screenshot](./addon.jpg "")
+
+# Updated to 2.8X
+The original plugin, made by Jonathan Giroux [WebSocket Server for Blender](https://github.com/KoltesDigital/websocket-server-for-blender) isn't compatible with Blender 2.8X
+
+I updated the code in this version to make it work (tested with Blender 2.81).
+
 # WebSocket server for Blender
 
 This project includes a Blender add-on (server) and a JavaScript library (client).
